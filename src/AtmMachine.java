@@ -22,7 +22,7 @@ class ATM {
         int balance = 50000;
         Scanner scanner = new Scanner(System.in);
         while (true) {
-            System.out.println("Welcome to Automated Teller Machine");
+            System.out.println("Welcome to ATM Machine");
             System.out.println("Choose 1 for Check A/C Balance");
             System.out.println("Choose 2 for Withdraw");
             System.out.println("Choose 3 for Deposit");
